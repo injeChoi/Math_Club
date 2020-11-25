@@ -6,9 +6,9 @@
   * 사칙 연산 계산 기능
 ![Run 결과](https://user-images.githubusercontent.com/48426909/91993535-74356d80-ed70-11ea-8916-8e3cddec620a.gif)
   * 특수 연산 계산 기능
-![특수연산](https://user-images.githubusercontent.com/48426909/91993543-75ff3100-ed70-11ea-95fc-9ed6c96b8cac.gif)
+![특수연산](https://user-images.githubusercontent.com/48426909/92005903-03498200-ed7f-11ea-990f-7647fffdfbc8.gif)
   * Histroy 기능
-![History](https://user-images.githubusercontent.com/48426909/91993549-77305e00-ed70-11ea-8e0f-7c4a5ec64b83.gif)
+![History](https://user-images.githubusercontent.com/48426909/92005913-047aaf00-ed7f-11ea-9da1-57e1d03b2ddf.gif)
   * Symbol 메뉴얼 제공 기능
 ![Symbols](https://user-images.githubusercontent.com/48426909/91993555-78618b00-ed70-11ea-8779-1eb115e1d8a3.gif)
 
